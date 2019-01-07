@@ -1,2 +1,2 @@
 # DSonBugsDB
-Data Science on eclipse bug database
+Data Science on eclipse and firefox bug database
